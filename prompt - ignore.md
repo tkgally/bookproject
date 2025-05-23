@@ -1,4 +1,4 @@
-I am working on a book project called "The Archaeology of Deleted Ideas." Please read the book-outline-v4.md file I'm providing, which contains the complete project plan and current status. After reading it, please:
+I am working on a book project called "The Archaeology of Deleted Ideas." Please read the book-outline-v5.md file I'm providing, which contains the complete project plan and current status. After reading it, please:
 
 1. Identify what phase/sub-phase should be worked on next based on the Current Status section
 2. Tell me which specific files you need from the GitHub repository to complete that phase
