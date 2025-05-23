@@ -44,7 +44,7 @@ The concluding chapter synthesizes the book's findings into an integrated framew
 ## Project Status and File Repository
 
 ### Files Currently in GitHub Repository
-1. `20250523 Book outline v3.md` - Previous version of project guide
+1. `book-outline-v4.md` - This master project guide (ACTIVE)
 2. `Phase 1 report - Gemini.md` - Theoretical foundations research (COMPLETED)
 3. `Phase 1 report - ChatGPT.md` - Theoretical foundations research (COMPLETED)
 4. `Phase 2-1 Vanished Technologies ChatGPT.md` - Lost technology cases (COMPLETED)
@@ -56,7 +56,23 @@ The concluding chapter synthesizes the book's findings into an integrated framew
 10. `Archaeology of Deleted Ideas - ChatGPT.md` - Additional research (COMPLETED)
 11. `Book project record - ignore.md` - Administrative file
 
-## Research and Writing Plan (Updated May 23, 2025)
+### Files to be Created During Project
+- `AIDEA-LING-##-[TopicName].md` - Linguistics theme notes
+- `AIDEA-PHIL-##-[TopicName].md` - Philosophy theme notes
+- `AIDEA-TECH-##-[TopicName].md` - Technology theme notes
+- `AIDEA-INDIG-##-[TopicName].md` - Indigenous knowledge notes
+- `AIDEA-ECON-##-[TopicName].md` - Economics theme notes
+- `AIDEA-METH-##-[TopicName].md` - Methodology notes
+- `AIDEA-CASE-##-[ChapterName].md` - Case studies by chapter
+- `AIDEA-DIGIT-##-[TopicName].md` - Digital preservation notes
+- `AIDEA-TRANS-##-[TopicName].md` - Translation theme notes
+- `AIDEA-ETHICS-##-[TopicName].md` - Ethics theme notes
+- `AIDEA-INDEX-MasterList.md` - Master index of all notes
+- `AIDEA-STYLE-Guidelines.md` - Writing style guidelines
+- `AIDEA-CHAPTER-##-[ChapterTitle]-Draft.md` - Chapter drafts
+- `AIDEA-DEEPRESEARCH-[Topic]-[LLM].md` - Deep research reports
+
+## Research and Writing Plan
 
 ### Phase 1: Conceptual Framework Development (COMPLETED)
 ✓ Task LLMs to conduct a comprehensive literature review on linguistic relativity, conceptual extinction, and related fields to establish theoretical foundations.
@@ -70,177 +86,193 @@ The concluding chapter synthesizes the book's findings into an integrated framew
 ✓ Task LLMs to evaluate the economic, scientific, and cultural impact of specific knowledge losses.
 ✓ Have LLMs identify the most compelling and illustrative examples for inclusion in each chapter.
 
-### Phase 3: Research Documentation and Note Compilation (IN PROGRESS - REVISED WORKFLOW)
+### Phase 3: Research Documentation and Note Compilation (IN PROGRESS)
 
-Due to context window limitations, Phase 3 has been restructured into sub-phases:
-
-#### Phase 3.1: Inventory and Planning (NEXT STEP)
+#### Phase 3.1: Inventory and Planning (READY TO BEGIN)
+- **Status**: NOT STARTED
 - **Required files**: This book outline only
 - **Task**: Create a detailed extraction plan identifying which themes appear in which research files
-- **Output**: Updated book outline with theme-to-file mapping
+- **Output**: Theme-to-file mapping table added to this outline
+- **Next conversation should start here**
 
-#### Phase 3.2-3.11: Thematic Extraction (One theme per conversation)
-Each sub-phase requires the book outline plus 2-3 relevant research reports:
-
-**Phase 3.2: LING (Linguistics)**
-- **Required files**: Book outline + Phase 1 reports + relevant case studies
+#### Phase 3.2: LING (Linguistics)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + Phase 1 reports (choose 2) + linguistic case studies
 - **Extract**: Linguistic relativity, language extinction, script loss
 - **Output**: `AIDEA-LING-01-LinguisticRelativity.md`, `AIDEA-LING-02-LanguageExtinction.md`, etc.
 
-**Phase 3.3: PHIL (Philosophy)**
-- **Required files**: Book outline + Phase 1 reports + philosophical case studies
+#### Phase 3.3: PHIL (Philosophy)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + Phase 1 reports (choose 2) + philosophical case studies
 - **Extract**: Philosophical frameworks, epistemology of loss, ontology of ideas
 - **Output**: `AIDEA-PHIL-01-PhilosophyOfAbsence.md`, `AIDEA-PHIL-02-ConceptualOntology.md`, etc.
 
-**Phase 3.4: TECH (Technology)**
-- **Required files**: Book outline + Phase 2-1 reports + technology case studies
+#### Phase 3.4: TECH (Technology)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + Phase 2-1 reports (both) + technology cases from Phase 2-2
 - **Extract**: Lost technologies, materials, manufacturing techniques
 - **Output**: `AIDEA-TECH-01-LostMaterials.md`, `AIDEA-TECH-02-VanishedProcesses.md`, etc.
 
-**Phase 3.5: INDIG (Indigenous Knowledge)**
-- **Required files**: Book outline + case studies with indigenous knowledge
+#### Phase 3.5: INDIG (Indigenous Knowledge)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + reports containing indigenous knowledge cases (identify during 3.1)
 - **Extract**: IEK, traditional practices, oral knowledge systems
 - **Output**: `AIDEA-INDIG-01-EcologicalKnowledge.md`, `AIDEA-INDIG-02-TraditionalPractices.md`, etc.
 
-**Phase 3.6: ECON (Economics)**
-- **Required files**: Book outline + reports with economic analysis
+#### Phase 3.6: ECON (Economics)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + reports with economic analysis (identify during 3.1)
 - **Extract**: Economic impacts, cost calculations, innovation losses
 - **Output**: `AIDEA-ECON-01-EconomicImpacts.md`, `AIDEA-ECON-02-InnovationCosts.md`, etc.
 
-**Phase 3.7: METH (Methodology)**
-- **Required files**: Book outline + Phase 1 reports + methodology sections
+#### Phase 3.7: METH (Methodology)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + Phase 1 reports + methodology sections from other reports
 - **Extract**: Detection methods, research approaches, analytical frameworks
 - **Output**: `AIDEA-METH-01-DetectionMethods.md`, `AIDEA-METH-02-ResearchApproaches.md`, etc.
 
-**Phase 3.8: CASE (Case Studies)**
-- **Required files**: Book outline + all case study reports
+#### Phase 3.8: CASE (Case Studies)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + 2-3 case study reports per conversation
 - **Extract**: Comprehensive case compilation organized by chapter
 - **Output**: `AIDEA-CASE-01-Chapter1Cases.md` through `AIDEA-CASE-12-Chapter12Cases.md`
 
-**Phase 3.9: DIGIT (Digital Preservation)**
-- **Required files**: Book outline + reports on digital methods
+#### Phase 3.9: DIGIT (Digital Preservation)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + reports mentioning digital methods (identify during 3.1)
 - **Extract**: Digital humanities, AI decipherment, preservation technologies
 - **Output**: `AIDEA-DIGIT-01-DigitalMethods.md`, `AIDEA-DIGIT-02-AIApplications.md`, etc.
 
-**Phase 3.10: TRANS (Translation)**
-- **Required files**: Book outline + translation/untranslatability cases
+#### Phase 3.10: TRANS (Translation)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + reports with translation/untranslatability cases
 - **Extract**: Untranslatable concepts, translation challenges, cultural concepts
 - **Output**: `AIDEA-TRANS-01-Untranslatables.md`, `AIDEA-TRANS-02-CulturalConcepts.md`, etc.
 
-**Phase 3.11: ETHICS (Ethics)**
-- **Required files**: Book outline + ethical discussions from reports
+#### Phase 3.11: ETHICS (Ethics)
+- **Status**: NOT STARTED
+- **Required files**: Book outline + ethical discussions from reports (identify during 3.1)
 - **Extract**: Preservation ethics, cultural rights, authenticity debates
 - **Output**: `AIDEA-ETHICS-01-PreservationEthics.md`, `AIDEA-ETHICS-02-CulturalRights.md`, etc.
 
 #### Phase 3.12: Master Index Creation
-- **Required files**: List of all created markdown notes
+- **Status**: NOT STARTED
+- **Required files**: List of all created markdown notes (provide as simple list)
 - **Task**: Create comprehensive index mapping themes to chapters
 - **Output**: `AIDEA-INDEX-MasterList.md`
 
 ### Phase 4: Original Analysis of Untranslatable Concepts
-**Required files per conversation**: TRANS notes + 1-2 linguistic research reports
-1. Request LLMs to compile databases of concepts considered "untranslatable" or highly culture-specific across diverse languages.
-2. Ask LLMs to analyze these concepts' semantic fields, etymology, and cultural contexts to understand why they resist translation.
-3. Task LLMs to examine how these concepts reveal alternative frameworks for understanding aspects of human experience.
-4. Have LLMs analyze translation attempts and their limitations as case studies in conceptual transformation.
+- **Status**: NOT STARTED
+- **Prerequisite**: Complete Phase 3.10 (TRANS notes)
+- **Deep Research Prompt**: Will be provided when phase begins
+- **Output**: `AIDEA-DEEPRESEARCH-Untranslatables-[LLM].md`
 
 ### Phase 5: Research on Technological Preservation Methods
-**Required files per conversation**: DIGIT notes + digital humanities research
-1. Direct LLMs to review current digital humanities projects focused on language preservation and knowledge recovery.
-2. Ask LLMs to analyze technical approaches, successes, limitations, and ethical considerations of these initiatives.
-3. Task LLMs to identify emerging technologies that show promise for conceptual preservation.
-4. Have LLMs evaluate methodological innovations in computational linguistics, digital archaeology, and data visualization relevant to recovering lost concepts.
+- **Status**: NOT STARTED
+- **Prerequisite**: Complete Phase 3.9 (DIGIT notes)
+- **Deep Research Prompt**: Will be provided when phase begins
+- **Output**: `AIDEA-DEEPRESEARCH-DigitalPreservation-[LLM].md`
 
 ### Phase 6: Evaluation and Reorganization of Research Notes
-**Required files per conversation**: Master index + 3-4 sample note files
-1. Have LLMs review all markdown documents for completeness, accuracy, and relevance.
-2. Task LLMs to identify thematic connections across different documents and suggest reorganizations that align with chapter structures.
-3. Ask LLMs to flag areas requiring additional research or verification before drafting begins.
-4. Direct LLMs to add comments and annotations specifically aimed at supporting the writing process, including potential narrative threads and key arguments.
-5. Create a master index document that maps research notes to specific chapters and sections.
+- **Status**: NOT STARTED
+- **Prerequisite**: Complete all Phase 3 sub-phases
+- **Required files**: Master index + sample notes (3-4 per conversation)
 
 ### Phase 7: Citation Review and Fact Verification (First Round)
-**Required files per conversation**: 2-3 note files at a time
-1. Task LLMs to verify all citations for accuracy, completeness, and currency.
-2. Have LLMs cross-check facts across multiple sources to ensure validity.
-3. Direct LLMs to identify potentially controversial claims requiring additional support.
-4. Ask LLMs to evaluate the credibility and authority of sources used.
-5. Create a verification report highlighting any discrepancies or concerning areas.
+- **Status**: NOT STARTED
+- **Prerequisite**: Complete Phase 6
+- **Required files**: 2-3 note files at a time
 
 ### Phase 8: Writing Style Research and Selection
-**Required files per conversation**: Book outline + external writing samples
-1. Direct LLMs to identify and analyze writing styles from similar academic books that successfully balance scholarly rigor with accessibility.
-2. Ask LLMs to provide representative samples from each identified style.
-3. Have LLMs analyze the structural, syntactic, and rhetorical features that characterize each style.
-4. Present options for selection of preferred writing style(s) to be used as models for the book.
-5. Based on selection, develop style guidelines that will be followed throughout the drafting process.
+- **Status**: NOT STARTED
+- **Deep Research Prompt**: Will be provided when phase begins
+- **Output**: `AIDEA-STYLE-Guidelines.md`
 
 ### Phase 9: Chapter Drafting
-**Required files per conversation**: Relevant themed notes (2-3 files) + style guidelines
-1. For each chapter, instruct LLMs to outline key arguments, examples, and narrative progression.
-2. Ask LLMs to write initial drafts that incorporate both established scholarship and original analysis.
-3. Task LLMs to include appropriate in-text citations (to be converted to endnotes later) and theoretical frameworks.
-4. Have LLMs create conceptual diagrams, tables, and other visual elements to complement the text.
-5. Ensure drafts adhere to the selected writing style guidelines.
+- **Status**: NOT STARTED
+- **Prerequisite**: Complete Phases 6-8
+- **Required files**: Relevant themed notes (2-3 files) + style guidelines
+- **Output**: `AIDEA-CHAPTER-01-VanishedThoughtWorlds-Draft.md`, etc.
 
 ### Phase 10: Citation Review and Fact Verification (Second Round)
-**Required files per conversation**: 1-2 draft chapters at a time
-1. Have LLMs conduct a comprehensive review of all citations and factual claims in the draft chapters.
-2. Task LLMs to verify quotes against original sources for accuracy.
-3. Direct LLMs to identify areas where additional citations or evidence would strengthen arguments.
-4. Ask LLMs to check for any recent publications that should be incorporated.
-5. Create an updated verification report addressing any issues found.
+- **Status**: NOT STARTED
+- **Prerequisite**: Draft chapters complete
+- **Required files**: 1-2 draft chapters at a time
 
 ### Phase 11: Integration and Coherence
-**Required files per conversation**: 2-3 consecutive chapters
-1. Request LLMs to review all chapters for thematic coherence and narrative flow.
-2. Ask LLMs to strengthen connections between chapters, ensuring concepts build progressively.
-3. Task LLMs to identify and resolve contradictions or repetitions across chapters.
-4. Have LLMs develop transitional sections that guide readers between major book sections.
+- **Status**: NOT STARTED
+- **Required files**: 2-3 consecutive chapters
 
 ### Phase 12: Critical Evaluation and Revision
-**Required files per conversation**: 1-2 chapters + relevant critical sources
-1. Direct LLMs to critically evaluate the manuscript for academic rigor, original contribution, and potential counterarguments.
-2. Ask LLMs to anticipate critiques from different disciplinary perspectives and address them.
-3. Task LLMs to identify areas where the argument could be strengthened with additional evidence or nuance.
-4. Have LLMs revise for conceptual clarity, ensuring complex ideas are accessible without oversimplification.
+- **Status**: NOT STARTED
+- **Required files**: 1-2 chapters + relevant critical sources
 
 ### Phase 13: Style and Presentation Refinement
-**Required files per conversation**: 1-2 chapters for detailed editing
-1. Request LLMs to review the manuscript for stylistic consistency and engaging prose.
-2. Ask LLMs to enhance narrative elements, examples, and metaphors that make abstract concepts concrete.
-3. Task LLMs to optimize the balance between theoretical depth and readability.
-4. Have LLMs convert in-text citations to endnotes, adding explanatory content to endnotes that clarifies what is being cited and provides context.
-5. Ensure endnotes contain complete reference information while maintaining a clean, uninterrupted main text.
+- **Status**: NOT STARTED
+- **Required files**: 1-2 chapters for detailed editing
 
 ### Phase 14: Final Citation Review and Fact Verification
-**Required files per conversation**: Endnotes from 2-3 chapters
-1. Direct LLMs to conduct a final comprehensive review of all endnotes and references.
-2. Have LLMs verify that all citations are properly formatted and consistently styled.
-3. Task LLMs to ensure that explanatory content in endnotes accurately reflects the source material.
-4. Ask LLMs to check for any final factual inaccuracies or questionable claims.
-5. Create a final verification report confirming the academic integrity of the manuscript.
+- **Status**: NOT STARTED
+- **Required files**: Endnotes from 2-3 chapters
 
 ### Phase 15: Final Manuscript Integration
-**Required files per conversation**: All chapters in sequence (2-3 at a time)
-1. Direct LLMs to compile the revised chapters into a cohesive manuscript.
-2. Ask LLMs to write an executive summary and detailed table of contents.
-3. Task LLMs to ensure consistent formatting and adherence to academic publishing standards.
-4. Have LLMs conduct final proofreading and editorial refinement to create a polished manuscript.
+- **Status**: NOT STARTED
+- **Required files**: All chapters in sequence (2-3 at a time)
 
-## Citation Method Note
-The final version of this book will use endnotes without in-text citations to enhance readability while maintaining academic rigor. During the drafting phases, standard in-text citations will be used. In the final manuscript, these in-text citations will be removed, and the endnotes will be revised to include explanations of what is being cited or quoted, followed by complete references to sources. This approach aims to create a more fluid reading experience while still providing thorough documentation for academic audiences.
+## Deep Research Prompt Templates
+
+### Template for Untranslatable Concepts Research (Phase 4)
+```
+Please conduct deep research on untranslatable concepts across world languages. Focus on:
+1. Concepts that have no direct equivalent in other languages
+2. The cultural and cognitive frameworks these concepts reveal
+3. How translation attempts handle these concepts
+4. The implications of losing these concepts when languages die
+5. Specific examples from diverse language families
+
+Include academic sources, linguistic studies, and cultural analyses. Organize findings by concept type (emotional, philosophical, social, environmental, etc.).
+```
+
+### Template for Digital Preservation Research (Phase 5)
+```
+Please conduct deep research on current digital technologies and methods for preserving endangered languages and recovering lost knowledge. Focus on:
+1. Current digital humanities projects for language preservation
+2. AI and machine learning applications in deciphering ancient scripts
+3. Virtual and augmented reality for cultural knowledge transmission
+4. Success stories and limitations of digital preservation
+5. Ethical considerations in digital cultural preservation
+
+Include recent technological developments, case studies, and critical analyses of different approaches.
+```
+
+### Template for Writing Style Analysis (Phase 8)
+```
+Please analyze the writing styles of successful academic books that balance scholarly rigor with accessibility. Focus on books about language, culture, and knowledge systems. Examine:
+1. How they introduce complex concepts to general readers
+2. Their use of narrative and examples
+3. How they handle citations and academic apparatus
+4. Their chapter structures and transitions
+5. Specific stylistic techniques that enhance readability
+
+Provide excerpts demonstrating effective techniques and create guidelines for our book.
+```
 
 ## Current Status (May 23, 2025)
-- Phase 1 and Phase 2 are complete with comprehensive research reports from multiple LLMs
-- Phase 3 has been restructured to accommodate context window limitations
-- The project has strong conceptual foundations and extensive case studies collected
-- Next immediate task: Begin Phase 3.1 (Inventory and Planning) to map themes to research files
+- Phase 1 and Phase 2: COMPLETED
+- Phase 3: RESTRUCTURED and ready to begin with Phase 3.1
+- Current task: Phase 3.1 - Inventory and Planning
+- Next conversation should start with the standard prompt above
 
-## Workflow Instructions for Context Management
-1. Each conversation should begin with providing this book outline file
-2. Specify which phase/sub-phase is being worked on
-3. Provide only the files required for that specific phase (typically 2-3 files maximum)
-4. Save all outputs before ending the conversation
-5. Update this book outline with completion status after each work session
-6. Commit all changes to GitHub repository with descriptive commit messages
+## Context Window Management Guidelines
+- Maximum files per conversation: 3 (including this outline)
+- Research reports typically use 25-30% of context window each
+- Draft chapters expected to use 10-20% of context window each
+- Always save outputs before ending conversation
+- If approaching context limits, conclude work and provide updated outline
+
+## File Naming Conventions
+- Theme notes: `AIDEA-[THEME]-##-[DescriptiveName].md`
+- Deep research: `AIDEA-DEEPRESEARCH-[Topic]-[LLM].md`
+- Chapter drafts: `AIDEA-CHAPTER-##-[ChapterTitle]-Draft.md`
+- Always use leading zeros for numbers (01, 02, etc.)
+- Keep filenames concise but descriptive
