@@ -87,11 +87,29 @@ This note examines the loss and decipherment of writing systems as a form of con
 - **Loss of Literacy**: Communities losing ability to read ancestral scripts
 - **Language Change**: Scripts becoming incomprehensible as language evolves
 
-### The Digital Age Challenge
-- **Format Obsolescence**: Files unreadable without software/hardware
-- **Link Rot**: Online content disappearing
-- **Platform Dependency**: Knowledge locked in proprietary systems
-- **"Digital Dark Age"**: Potential future inability to access digital records
+## Digital Preservation Initiatives
+
+### Major Archive Projects
+- **The Rosetta Project**: Micro-etched archive of 1,500 languages on nickel disc with 2,000-year lifespan
+- **The Endangered Languages Project**: Documenting 3,000+ endangered languages worldwide
+- **Living Tongues Institute**: Creating "Living Dictionaries" for 400+ under-represented languages
+- **UNESCO Memory of the World**: Digital archives of endangered documents
+- **ELAR (Endangered Languages Archive)**: Audio-visual documentation
+- **PARADISEC**: Pacific and Asian language archives
+
+### Community-Led Digital Initiatives
+- **Te Hiku Media**: First automatic speech recognition for indigenous language (Māori)
+- **Cree#**: Programming language incorporating Cree concepts and metaphors
+- **Mukurtu CMS**: Content management respecting indigenous protocols
+- **PanLex**: Building cross-lingual concept maps
+- Community-controlled documentation apps
+
+### AI and Machine Learning Applications
+- MIT algorithms deciphering lost languages by comparing to known relatives
+- Successfully aligned Ugaritic with Hebrew, Linear B with Greek
+- AI translating masses of untranslated texts (cuneiform tablets)
+- TTS models recreating sound of languages with no living speakers
+- VR and games embedding endangered languages for younger learners
 
 ## What Scripts Preserve and Lose
 
