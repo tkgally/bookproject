@@ -77,6 +77,11 @@ Proto-Indo-European reconstructions revealing:
 ### Recent Advances
 - Neural networks for proto-language reconstruction
 - AI achieving 72% accuracy with expert input
+- MIT algorithms successfully deciphering Linear B and Ugaritic
+- Aligning Ugaritic with Hebrew automatically
+- Predicting proto-words for 637 Austronesian languages
+- AI translation of Akkadian cuneiform tablets
+- Between 500,000 and 2 million Mesopotamian tablets excavated, ~90% unread
 - Standardized datasets (Lexibench) for testing methods
 - Integration with archaeological/genetic data
 
