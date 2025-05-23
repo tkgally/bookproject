@@ -8,8 +8,12 @@ This note compiles research on language extinction/death as a primary mechanism 
 ### Current Statistics
 - Approximately 7,000 languages spoken today
 - At least 40% are endangered (Gemini report)
+- Around 3,000 (43%) languages are endangered (Claude report)
 - One language vanishes about every two weeks
 - 73-91% of medicinal plant knowledge in Americas/New Guinea is linguistically unique (ChatGPT report)
+- 75% of all medicinal plant knowledge exists in only one language (ChatGPT report)
+- By 2100, between 50% and 90% of current languages may disappear (Claude report)
+- Index of Linguistic Diversity shows 20% decline between 1970-2005 (Gemini report)
 
 ### Key Scholars on Language Death
 - **David Crystal**: Emphasizes that "when language transmission breaks down, through language death, there's a serious loss of inherited knowledge"
