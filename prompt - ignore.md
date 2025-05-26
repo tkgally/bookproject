@@ -5,9 +5,9 @@ I am working on a book project called 'The Archaeology of Deleted Ideas' which i
 3. Provide any Deep Research prompts I should run if you identify gaps while writing
 4. Once I provide the requested files, complete the work for that phase, creating all outputs as artifacts
 5. At the end of our conversation, provide an updated version of the book outline with:
-   - Incremented version number (v20, v21, etc.)
-   - Updated 'Current Phase'
-   - Marked completion status for finished work
-   - Clear 'Next Immediate Action' for the following conversation
+- Incremented version number (v23, v24, etc.)
+- Updated 'Current Phase'
+- Marked completion status for finished work
+- Clear 'Next Immediate Action' for the following conversation
 
-My role is to provide requested files, run Deep Research prompts, and ensure we stay on schedule for June 2 completion. The book must maintain academic rigor while being accessible to general readers, following the style guidelines once established. Let's begin.
+My role is to provide requested files, run Deep Research prompts, and ensure we maintain academic rigor through proper citations. The book must maintain academic credibility while being accessible to general readers, following the style guidelines. All chapters must include comprehensive endnotes that will be verified through multiple rounds of checking. Let's begin.
