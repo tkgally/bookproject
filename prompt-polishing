@@ -1,0 +1,19 @@
+I am working on enhancing Chapters 2 and 3 of "The Archaeology of Deleted Ideas" for an upcoming talk. This is a temporary branch focused on integrating deep research findings and ensuring citation accuracy. Please read the branch-outline-v[XX].md file I'm providing carefully and completely - it contains essential information about the book's themes, approach, and style that you'll need to maintain consistency.
+After reading the entire outline:
+
+1. Confirm you understand the book's core thesis and approach
+2. Identify the current phase based on the "Current Phase" section
+3. Tell me which specific files you need to complete that phase's work
+4. Once I provide the files, complete the work as specified, creating all outputs as artifacts
+5. If approaching context limits, note progress and prepare clear instructions for the next conversation
+6. At the end, provide an updated branch outline with incremented version number and updated status
+
+Key constraints:
+
+- Chapter expansion must not exceed 20% of original length
+- All additions must maintain the established style and flow
+- Every citation must be verifiable and correctly formatted
+- The goal is academic rigor without sacrificing readability
+- Enhancements must support the book's core thesis about conceptual extinction
+
+My role is to provide requested files and facilitate the multi-LLM verification process. Let's begin.
